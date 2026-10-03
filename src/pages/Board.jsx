@@ -17,15 +17,6 @@ const boardMembers = [
         bio: "gursel.gecir@ogr.sakarya.edu.tr"
     },
     {
-        id: "mehmetZahidGorgec",
-        name: "Mehmet Zahid Görgeç",
-        role: "itCoordinator",
-        department: "computerEng",
-        email: "mehmetzahidgorgec@gmail.com",
-        img: true,
-        bio: "mehmetzahidgorgec@gmail.com"
-    },
-    {
         id: "beratKaanAydin",
         name: "Berat Kaan Aydın",
         role: "vicePresident",
@@ -35,6 +26,15 @@ const boardMembers = [
         bio: "berat.aydin@infoseis.com"
     },
     {
+        id: "mehmetZahidGorgec",
+        name: "Mehmet Zahid Görgeç",
+        role: "itCoordinator",
+        department: "computerEng",
+        email: "mehmetzahidgorgec@gmail.com",
+        img: true,
+        bio: "mehmetzahidgorgec@gmail.com"
+    },
+    {
         id: "ensarDavut",
         name: "Ensar Davud",
         role: "founderAndSupervisoryBoardMember",
@@ -42,15 +42,6 @@ const boardMembers = [
         email: "ensar.davud@ogr.sakarya.edu.tr",
         img: true,
         bio: "ensar.davud@ogr.sakarya.edu.tr"
-    },
-    {
-        id: "senanurBektas",
-        name: "Senanur Bektaş",
-        role: "externalRelationsAndCorporateCommunicationsCoordinator",
-        department: "translation",
-        email: "bektassenanur7@gmail.com",
-        img: true,
-        bio: "bektassenanur7@gmail.com"
     },
     {
         id: "zeynepCenik",

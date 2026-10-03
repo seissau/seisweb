@@ -85,13 +85,6 @@ const teamMembers = [
         email: "emre.turk@infoseis.com",
     },
     {
-        id: "emreTurk",
-        name: "Emre Türk",
-        role: "Logistics & Venue Responsible :",
-        department: "computerEng",
-        email: "emre.turk@infoseis.com",
-    },
-    {
         id: "zeynepEzgiSelvi",
         name: "Zeynep Ezgi Selvi",
         role: "Membership Recruitment Officer & Internal Communications Coordinator",
